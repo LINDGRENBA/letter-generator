@@ -1,3 +1,24 @@
+
+body {
+  background-color: #17C3B2;
+}
+
+h1 {
+  color: #227C9D;
+}
+
 #letter {
   display: none;
+  background-color: #FFCB77;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 5px;
+  border: 1px solid #227C9D;
 }
+
+/* COLOR PALETTE
+227C9D CG blue
+17C3B2 Tiffany Blue
+FFCB77 Maximum yellow red
+FEF9EF Floral white
+FE6D73 Light coral */
